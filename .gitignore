@@ -1,0 +1,7 @@
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+.vscode/
+__pycache__/
+/sistema/Publicar_Novo_GitHub.ps1
